@@ -9,7 +9,7 @@ html {
 }
 
 .top {
-  background-image: url(/img/background.svg);
+  background-image: url(../img/background.svg);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -243,7 +243,7 @@ main {
 }
 
 .feedback {
-  background: url(/img/bg.jpg);
+  background: url(../img/bg.jpg);
   background-size: contain;
   background-position: bottom;
   background-repeat: no-repeat;
